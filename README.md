@@ -22,5 +22,6 @@ _____
 ```
 ip addr
 ```
+   ![photo_2023-09-21_16-37-49](https://github.com/12262004-m/OT-U/assets/112974851/9f60ab12-dad2-4c8d-8691-6dd3c5c487ba)
 [Вверх](#anchor)
    
